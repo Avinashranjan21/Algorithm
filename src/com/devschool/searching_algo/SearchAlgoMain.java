@@ -1,9 +1,9 @@
-package com.devschool;
+package com.devschool.searching_algo;
 
 import com.devschool.searching_algo.binary.BinarySearch;
 import com.devschool.searching_algo.linear.LinearSearch;
 
-public class Main {
+public class SearchAlgoMain {
 
     public static void main(String[] args) {
 
@@ -13,7 +13,6 @@ public class Main {
 
     private static void linearSearch() {
 //      Linear search on array
-
         int index = LinearSearch.searchInArray(9);
         if (index != -1) {
             System.out.println("Index of search string  = " + LinearSearch.searchInArray(9));
