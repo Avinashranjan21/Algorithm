@@ -1,4 +1,4 @@
-package com.devschool.binary;
+package com.devschool.searching_algo.binary;
 
 /**
  * Created by avinash.ranjan on 07/09/17.

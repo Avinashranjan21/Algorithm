@@ -1,4 +1,4 @@
-package com.devschool.linear;
+package com.devschool.searching_algo.linear;
 
 /**
  * Created by avinash.ranjan on 07/09/17.

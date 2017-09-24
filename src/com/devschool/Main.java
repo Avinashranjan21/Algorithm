@@ -1,7 +1,7 @@
 package com.devschool;
 
-import com.devschool.binary.BinarySearch;
-import com.devschool.linear.LinearSearch;
+import com.devschool.searching_algo.binary.BinarySearch;
+import com.devschool.searching_algo.linear.LinearSearch;
 
 public class Main {
 
